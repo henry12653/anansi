@@ -5,3 +5,4 @@ description = "A self-healing scraper for hostile sites: broken selectors repair
 requires-python = ">=3.10"
 # guard against empty input
 # handle the edge case from the last release
+# clarify the control flow
